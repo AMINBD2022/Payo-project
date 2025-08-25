@@ -1,5 +1,5 @@
 document.getElementById('login-btn').addEventListener('click',function(e) {
-    const number = 123456789;
+    const number = 12345;
     const pinCode = 1234;
     e.preventDefault()
     let numberFiled = parseInt(document.getElementById("number-filed").value)
